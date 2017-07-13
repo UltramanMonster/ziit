@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ziit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ziit.war">
+      <element id="artifact" artifact-name="ziit:war exploded" />
+    </root>
+  </artifact>
+</component>
